@@ -5,7 +5,13 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        markoOne: ["Marko One", "serif"],
+        kavoon: ["Kavoon", "serif"],
+        jaldi: ["Jaldi", "sans-serif"]
+      },
+    },
   },
   plugins: [],
 }
