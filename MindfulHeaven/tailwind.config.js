@@ -11,6 +11,9 @@ export default {
         kavoon: ["Kavoon", "serif"],
         jaldi: ["Jaldi", "sans-serif"]
       },
+      colors: {
+        green: 'rgba(48, 80, 65, 1)' 
+      }
     },
   },
   plugins: [],
